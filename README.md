@@ -52,6 +52,9 @@ Prepare the Toe Component:
 Clean the 3D-printed toe component and ensure it is free of any support material.
 Attach a servo to the toe. This servo will control the toe's movement, allowing it to flip by 90 degrees. Secure the servo in place using screws or adhesive.
 
+
+
+
 Assemble the Knee Joint:
 Clean and prepare the 3D-printed knee component.
 Attach a servo to the knee joint. This servo will manage the bending motion of the knee. Position the servo for effective control of the knee's range of motion and secure it using screws or adhesive.
